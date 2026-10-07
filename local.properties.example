@@ -1,0 +1,5 @@
+# Copy to local.properties (git-ignored) and fill in your Supabase project values.
+# Alternatively export SUPABASE_URL / SUPABASE_ANON_KEY as environment variables (e.g. in CI).
+sdk.dir=/path/to/Android/sdk
+SUPABASE_URL=https://your-project-ref.supabase.co
+SUPABASE_ANON_KEY=your-anon-public-key
