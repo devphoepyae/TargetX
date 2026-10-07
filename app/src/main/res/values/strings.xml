@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TargetX</string>
+    <string name="auth_tagline">Track your receipts, KPI and commission</string>
+    <string name="auth_tab_login">Login</string>
+    <string name="auth_tab_sign_up">Sign Up</string>
+    <string name="auth_email">Email</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_confirm_password">Confirm password</string>
+    <string name="auth_show_password">Show password</string>
+    <string name="auth_hide_password">Hide password</string>
+    <string name="auth_submit_login">Log in</string>
+    <string name="auth_submit_sign_up">Create account</string>
+    <string name="auth_not_configured">Supabase is not configured. Set SUPABASE_URL and SUPABASE_ANON_KEY in local.properties and rebuild.</string>
+    <string name="auth_confirmation_sent">Account created. Check %1$s to confirm your email, then log in.</string>
+    <string name="error_email_blank">Email is required</string>
+    <string name="error_email_invalid">Enter a valid email address</string>
+    <string name="error_password_blank">Password is required</string>
+    <string name="error_password_too_short">Password must be at least %1$d characters</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_invalid_credentials">Incorrect email or password</string>
+    <string name="error_email_not_confirmed">Please confirm your email before logging in</string>
+    <string name="error_user_already_exists">An account with this email already exists</string>
+    <string name="error_weak_password">Password is too weak</string>
+    <string name="error_rate_limited">Too many attempts. Please try again later</string>
+    <string name="error_network">Network error. Check your connection and try again</string>
+    <string name="error_unknown">Something went wrong: %1$s</string>
+    <string name="home_welcome">Welcome</string>
+    <string name="home_signed_in_as">Signed in as %1$s</string>
+    <string name="home_placeholder">Receipt scanning is coming in the next step.</string>
+    <string name="home_sign_out">Sign out</string>
+</resources>
